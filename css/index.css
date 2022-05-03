@@ -29,6 +29,8 @@ div#container {
 	left: 50%;
 	transform: translate(-50%, -50%);
 	
+	width: 40%;
+	
 	background-color: #2277ff;
 	padding: 25px;
 	border-radius: 7px;
